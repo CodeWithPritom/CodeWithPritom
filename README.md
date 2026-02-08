@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Pritom! 🚀
+# Hi there 👋, I am Arup Bhowmik Pritom
 
 ### 🛠️ Specialist Software & Platform Engineering Aspirant
 I am a **Self-Taught Engineer** focused on building scalable backend systems, private cloud infrastructures, and AI-driven automations. I don't just write code; I build the systems that run them.
